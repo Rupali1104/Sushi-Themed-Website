@@ -46,6 +46,7 @@ a {
   color: inherit;
 }
 
+
 .flex-center {
   display: flex;
   justify-content: center;
@@ -289,7 +290,7 @@ a {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
